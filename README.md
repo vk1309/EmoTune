@@ -1,2 +1,1 @@
-# EmoTune
-Mood-Enhanced Spotify Playlist
+# Music-Recommender-System
