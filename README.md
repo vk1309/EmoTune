@@ -366,25 +366,35 @@ made rather than just recommending 10 songs to the user.
 
 [1] Cambria, E., & Hussain, A. (2012). Sentic computing: Techniques, tools, and applications. Springer
 Science & Business Media.
+
 [2] Pang, B., & Lee, L. (2008). Sentiment Analysis and Opinion Mining. Synthesis Lectures on Human
 Language Technologies, 1(1), 1-167.
+
 [3] Yoon, K. (2014). A sensitivity analysis of (and practitioners' guide to) Convolutional Neural
 Networks for Sentiment Analysis.
+
 [4] Chang, W.-C., & Lin, C.-J. (2017). Recurrent neural network for text classification with multi-task
 learning. arXiv preprint arXiv:1705.06114.
+
 [5] Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., ... & Polosukhin, I.
 (2017). Attention is all you need. In Advances in neural information processing systems (pp. 5998-
 6008).
+
 [6] Saravia, E. et al. (2018) “Carer: Contextualized affect representations for emotion recognition,”
 Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
+
 [7] Kong X, Jiang H, Yang Z, Xu Z, Xia F, Tolba A (2016) Exploiting Publication Contents and
 Collaboration Networks for Collaborator Recommendation. PLoS ONE 11(2): e0148492.
+
 [8] Dongjoo Lee et al, Opinion Mining of Customer Feedback Data on the Web. Seoul National
 University.
+
 [9] Y. Koren, R. Bell, C. Volinsky. (2009) “Matrix Factorization Techniques for Recommender Systems”
 Published in Computer.
+
 [10] Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2018). Bert: Pre-training of deep bidirectional
 transformers for language understanding.
+
 [11] Joshi, A. and Popoola, O. (2021) “Classifying Emotions in Real-Time .” Stanford University.
 
 
